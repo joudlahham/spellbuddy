@@ -1,0 +1,31 @@
+Welcome to the Help Center for SpellBuddy. Here, you'll find answers to common questions and useful information to enhance your experience with our tool.
+
+
+Q1: How do I spell check a file?
+A1: To spell check a file, follow these steps:
+1. Open the application and choose the "Select your file" option.
+2. Select the type of file you want to check (e.g. .txt, HTML, XML).
+3. Select "Upload File".
+4. Review and address the identified errors based on the options provided.
+5. Follow the applicable steps to save your changes or exit.
+
+Q2: Can I skip HTML or SML tags during spell checks?
+A2: Yes, SpellBuddy allows you to choose whether to skip HTML or SML tags during spell checks. Please be sure to select HTML or XML as the file type to do so.
+
+Q3: How do I manage my user dictionary?
+A3: To manage your user dictionary, follow these steps:
+1. Choose "Edit User Dictionary".
+2. View, edit, or remove words from your user dictionary.
+3. Reset the user dictionary to an empty state if needed.
+4. Follow the applicable steps to save your changes or exit.
+
+Q4: How are corrections suggested?
+A4: Misspelling suggestions are generated through many methods, including by removing letters, inserting letters, swapping consecutive letters, or inserting spaces at various positions within the word.
+
+Q5: What file types are supported for spell checking?
+A5: SpellBuddy supports spell checking of plain text files (.txt) and HTML/SML files.
+
+
+If you have any additional questions not addressed here or encounter any issues, please feel free to reach out to our support team at group17@spellbuddy.com. We value your feedback and are here to help ensure a smooth spell-checking experience.
+
+Thank you for choosing SpellBuddy!
